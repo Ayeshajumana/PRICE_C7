@@ -15,7 +15,12 @@ An intelligent visual Kanban inventory planning platform engineered for independ
 - **Assigned Track**: Team 9 - Inventory Optimization and Supply Chain Planning
 - **Application Name**: The Artisan Safety-Stock Planner
 - **Domain Category**: Inventory Analytics and Supply Chain Management
-- **Project Author & Lead Engineer**: **Ayesha Jumana** ([@Ayeshajumana](https://github.com/Ayeshajumana))
+- **Team Members**:
+  - Member 1: Ayesha Jumana S ([@Ayeshajumana](https://github.com/Ayeshajumana))
+  - Member 2: Dharun Karthik Balasubramaniam ([@DharunKarthikB](https://github.com/DharunKarthikB))
+  - Member 3: Dakshana Sri M ([@Dakshana-sri-m](https://github.com/Dakshana-sri-m))
+  - Member 4: Kayalvizhi S ([@kayalvizhi223456-svg](https://github.com/kayalvizhi223456-svg))
+  - Member 5: Srinithi Meyyammai M ([@srinithimeyyammai07-boop](https://github.com/srinithimeyyammai07-boop))
 - **Repository**: [PRICE_C7 / Team 09](https://github.com/Ayeshajumana/PRICE_C7)
 
 ---
